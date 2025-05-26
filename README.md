@@ -41,15 +41,9 @@ NCIFD (National Culture Instruction-Following Dataset) 是由中央民族大学�
 
 **电子邮箱**: tracy.yuan.sun@gmail.com
 
-## 🏛️ 机构信息
-
-**中央民族大学国家语言资源监测与研究少数民族语言中心**  
-National Minority Language Center for Language Resource Monitoring and Research  
-Minzu University of China
 
 ---
 
-*感谢您对民族文化传承与大语言模型研究的关注和支持！*
 
 ## 📄 论文引用
 
